@@ -6,3 +6,4 @@ console.log(sum(1,2));
     return a%b;
  }
  console.log(div(3,4))
+ console.log("chaithu")
